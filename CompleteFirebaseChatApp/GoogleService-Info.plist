@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>738449330476-sm6m58c71fva00jief8ft8s5l6ssm01b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.738449330476-sm6m58c71fva00jief8ft8s5l6ssm01b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBG3wl3gXlY-vS02uVxNJhhzhC_Eqji-wA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>738449330476</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>smartitventres.CompleteFirebaseChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>dominator-fb383</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dominator-fb383.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:738449330476:ios:8fb6b446fa5e1a34</string>
+	<key>DATABASE_URL</key>
+	<string>https://dominator-fb383.firebaseio.com</string>
+</dict>
+</plist>
